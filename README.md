@@ -1,3 +1,4 @@
-# F-103-OUA
-F-103 OUA BOOTCAMP  TAKIM ÜRÜN
-TAKIM İSMİ
+# TAKIM İSMİ
+F-103
+# ÜRÜN İLE İLGİLİ BİLGİLER
+#Takım Elemanları
