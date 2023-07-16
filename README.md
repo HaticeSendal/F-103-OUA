@@ -1,3 +1,6 @@
+# Projenin kodları
+https://github.com/HaticeSendal/F-103-OUA/tree/master
+
 # TAKIM İSMİ
 F-103
 # ÜRÜN İLE İLGİLİ BİLGİLER
@@ -23,6 +26,5 @@ Sayılarla dört işlem haricinde birçok matematik hesabını yapabilecekler.
 Notlar:
 -Ürüne karar verildi.
 
-# Projenin kodları
-https://github.com/HaticeSendal/F-103-OUA/tree/master
+
 
