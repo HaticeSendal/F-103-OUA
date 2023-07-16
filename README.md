@@ -24,4 +24,5 @@ Notlar:
 -Ürüne karar verildi.
 
 # Projenin kodları
+https://github.com/HaticeSendal/F-103-OUA/tree/master
 
