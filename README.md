@@ -23,5 +23,5 @@ Sayılarla dört işlem haricinde birçok matematik hesabını yapabilecekler.
 Notlar:
 -Ürüne karar verildi.
 
-#Projennin kodları
+# Projenin kodları
 
